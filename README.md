@@ -9,3 +9,7 @@ When I'm not coding, I like to strum the guitar, sing my favorite tunes, hang ou
 
 ## 🌟 Philosophy
 Everyone is "Level One" at something, and it's just a matter of a little work and intrigue to get to "Level Two".
+
+---
+[Issues](https://github.com/search?q=+is:issue+commenter:lizziemac&type=issues)<br/>
+[Pull Requests](https://github.com/search?q=+is:pull-request+author:lizziemac+is:public+-org:lizziemac&type=issues)
