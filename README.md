@@ -11,5 +11,7 @@ When I'm not coding, I like to strum the guitar, sing my favorite tunes, hang ou
 Everyone is "Level One" at something, and it's just a matter of a little work and intrigue to get to "Level Two".
 
 ---
+
+### Contributions
 [Issues](https://github.com/search?q=+is:issue+commenter:lizziemac&type=issues)<br/>
 [Pull Requests](https://github.com/search?q=+is:pull-request+author:lizziemac+is:public+-org:lizziemac&type=issues)
