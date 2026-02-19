@@ -17,4 +17,4 @@ Everyone is "Level One" at something, and it's just a matter of a little work an
 [Pull Requests](https://github.com/search?q=+is:pull-request+author:lizziemac+is:public+-org:lizziemac&type=issues)
 
 
-[^1]: I can't mention Kip without mentioning his predecessor Poe, the best pair-programmer I ever had. Rest easy buddy. 🤍
+[^1]: I can't mention Kip without mentioning his predecessor Poe, the best pair-programmer I ever had. Rest easy budino. 🤍
